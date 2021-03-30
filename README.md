@@ -3,5 +3,5 @@
 ## Commands
 
 ```
-ansible -i ./inventory/hosts ubuntu-servers -m ping --user steff
+ansible -i ./inventory/hosts ubuntu -m ping --user steff
 ```
